@@ -1,0 +1,483 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A choice table to the Bible of the most eminent persons contained in the Old and New Testament both good and bad; directing to the book and chapter wherein they are recorded; of special use for all sorts that delight to meditate in sacred history.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08748</idno>
+            <idno type="STC">Wing C3920AA</idno>
+            <idno type="STC">ESTC R224288</idno>
+            <idno type="EEBO-CITATION">64551090</idno>
+            <idno type="OCLC">ocm 64551090</idno>
+            <idno type="VID">184465</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08748)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184465)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2864:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A choice table to the Bible of the most eminent persons contained in the Old and New Testament both good and bad; directing to the book and chapter wherein they are recorded; of special use for all sorts that delight to meditate in sacred history.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Crosse,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Indexes --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184465:1"/>
+            <head>A Choice TABLE to the BIBLE of the moſt Eminent PERSONS contained in the OLD and NEW TESTAMENT both <hi>Good</hi> and <hi>Bad;</hi> Directing to the Book and Chapter wherein they are Recorded; of ſpecial uſe for all ſorts that delight to Me<g ref="char:EOLhyphen"/>ditate in Sacred HISTORY.</head>
+            <list>
+               <head>GOOD MEN.</head>
+               <item>ADAM Created perfect, fell in <hi>Paradiſe,</hi> and in him All <hi>Men, Gen.</hi> 2.3.</item>
+               <item>
+                  <hi>Abraham</hi> The <hi>Friend</hi> of GOD, and <hi>Father</hi> of the faithful, <hi>Gen.</hi> 12.13, 14, &amp;c.</item>
+               <item>
+                  <hi>Aaron</hi> The <hi>Saint</hi> of the Lord wrought wonders before <hi>Pharach, Exod.</hi> 4.5, 6, &amp;c.</item>
+               <item>
+                  <hi>Abel</hi> His ſacrifice accepted, <hi>Gen.</hi> 4.</item>
+               <item>
+                  <hi>Aholiab</hi> in whoſe <hi>heart</hi> GOD put wiſdom to work all manner of curious work, <hi>Exod.</hi> 31.</item>
+               <item>
+                  <hi>Agurs</hi> two requeſts, neither Poverty nor Riches, <hi>Prov.</hi> 30.</item>
+               <item>
+                  <hi>Apollos</hi> A mighty man in the Scriptures, <hi>Acts</hi> 18.</item>
+               <item>
+                  <hi>Appelles</hi> approved in Chriſt, <hi>Rom.</hi> 16.10.</item>
+               <item>
+                  <hi>Achaicus</hi> a ſupplier of <hi>Paul</hi>'s wants, 1 <hi>Cor.</hi> 19. v. 17.</item>
+               <item>BEZALEEL was called of GOD to Deviſe cunning works in Gold, Silver, &amp;c. <hi>Exod.</hi> 31</item>
+               <item>
+                  <hi>Boaz</hi> was firſt courteous, and after Huſband to <hi>Ruth, Ruth.</hi> 2.</item>
+               <item>
+                  <hi>Bildad</hi> one of <hi>Job</hi>'s three friends, <hi>Job</hi> 2.</item>
+               <item>
+                  <hi>Baruch</hi> Diſmayed, is comſorted by <hi>Jeremiah, Jer.</hi> 45.</item>
+               <item>
+                  <hi>Blind Bartimeus</hi> calls Aloud to Jeſus and receives his ſight — <hi>Mark</hi> 10.</item>
+               <item>
+                  <hi>Barnabas</hi> was ſeparated by the Noly Ghoſt a teacher to the Gentiles, <hi>Acts</hi> 13.</item>
+               <item>CALEB one that ſearched <hi>Canaan</hi> and encouraged <hi>Iſrael — Numb.</hi> 14.</item>
+               <item>
+                  <hi>Cyrus</hi> King of <hi>Perſia</hi> ſtirred up by the Lord to build the Lords houſe at <hi>Jeruſalem, Ez.</hi> 1.</item>
+               <item>The <hi>Centurion</hi> whoſe ſervant was dear to him is healed by Chriſt, <hi>Luke</hi> 7.</item>
+               <item>King <hi>Darius</hi> decrees to ſearch the rolls concerning the houſe of God — <hi>Ezra</hi> 6.</item>
+               <item>
+                  <hi>Demetrius</hi> was well reported of by the true record epiſtle, <hi>Joh.</hi> 3.12.</item>
+               <item>ENOCH the 7th from <hi>Adam</hi> walked with God and was tranſlated, <hi>Gen.</hi> 15. <hi>Jud.</hi> 14</item>
+               <item>
+                  <hi>Eli</hi> hearing of the death of his two ſons &amp; the ark of God took, falls back, &amp;c. 1 <hi>Sam.</hi> 2.</item>
+               <item>
+                  <hi>Ezra</hi> a ready ſcribe in Gods Law and prepared his heart to ſeek the Lord, <hi>Ezra</hi> 7.</item>
+               <item>
+                  <hi>Elijah</hi> was fed by Ravens, raiſed the Widdows ſon, by prayer obtains rain, 1 <hi>Kin.</hi> 17 was taken up to heaven, 2 <hi>Kin.</hi> 1.2.</item>
+               <item>
+                  <hi>Eliphaz</hi> one of <hi>Jobs</hi> three friends, <hi>Joh</hi> 2.</item>
+               <item>
+                  <hi>Elihu</hi> reproveth and ſalſely accuſeth <hi>Job. Chapters</hi> 32.33, 34, 35, 36.</item>
+               <item>
+                  <hi>Ebed-melech</hi> the Ethiopian procures <hi>Jeremiah</hi> out of the dungeon, <hi>Jer.</hi> 38.</item>
+               <item>HIRAM a worker in Braſs, 1 <hi>Kin.</hi> 7.</item>
+               <item>ISAAC the ſon of the promiſe uſed to meditate in the field at eventide, <hi>Gen.</hi> 25.</item>
+               <item>
+                  <hi>Jacob</hi> obtained the birthright and bleſſing from <hi>Eſau,</hi> he wraſtleth and prevails with God, <hi>Gen.</hi> 27.30.</item>
+               <item>
+                  <hi>Iethro</hi> father in law to <hi>Moſes</hi> &amp; Prieſt of <hi>Midian</hi> gives him council, <hi>Exod.</hi> 3.18.</item>
+               <item>
+                  <hi>Ithamor Aarons</hi> ſon is commanded not to mourn for the deſtruction of <hi>Nadab,</hi> and <hi>Abihu, Levit.</hi> 10.</item>
+               <item>
+                  <hi>Jonathan</hi> King <hi>Sauls</hi> ſon &amp; <hi>Davids</hi> loving companion &amp; brother, 1 <hi>Sam. Ch.</hi> 23.31. 2 <hi>S.</hi> 1.</item>
+               <item>
+                  <hi>Joſeph Jacobs</hi> beloved hated of his brethren ſold to the <hi>Iſhmalites</hi> was ſeur to provid for them, <hi>Gen.</hi> 440</item>
+               <item>
+                  <hi>Judah Joſephs</hi> brother that ſaved <hi>Ioſeph</hi> from being murtherd, <hi>Gen.</hi> 35.</item>
+               <item>
+                  <hi>Job</hi> tempted by his wiſe accuſed by the devil &amp; by his friends ſins not <hi>Job. Ch.</hi> 1.2, 3,</item>
+               <item>
+                  <hi>Julius</hi> a centution of <hi>Auguſtus</hi> bands ſaved <hi>Paul</hi> and diſappointed his enemies, <hi>Acts</hi> 27.</item>
+               <item>LAMECH the father of <hi>Noah,</hi> and the ſon of <hi>Methuſael, Gen. Ch.</hi> 4. and 5.</item>
+               <item>
+                  <hi>Lot</hi> a righteous perſon in <hi>Sodom,</hi> is ſaved from that deſtruction. <hi>Genes.</hi> 19.</item>
+               <item>
+                  <hi>Laban</hi> brother to <hi>Rebeckah Iſaaes</hi> wiſe lived in <hi>Nahor, Gen.</hi> 24.</item>
+               <item>
+                  <hi>Levi Jacobs</hi> ſon was cruel to the <hi>Shechemites</hi> that raviſht <hi>Dinah</hi> his ſiſter, <hi>Gen.</hi> 34.</item>
+               <item>
+                  <hi>Lazarus</hi> that was dead four days is raiſed by Jeſus, <hi>John</hi> 11.</item>
+               <item>MISHAEL and <hi>Elzaphan <g ref="char:V">Ʋ</g>zziels</hi> ſons carried out <hi>Nadab</hi> and <hi>Abihu—Levit.</hi> 10.</item>
+               <item>
+                  <hi>Moſes</hi> chuſeth affliction before preſerment, is made a God to <hi>Pharaoh</hi> is ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rty days in the mount receives the Law, was the meekeſt man.
+<list>
+                     <item>
+                        <hi>Exod.</hi> 2.</item>
+                     <item>
+                        <hi>Exod.</hi> 24.</item>
+                     <item>
+                        <hi>Exod.</hi> 7.</item>
+                     <item>
+                        <hi>Num.</hi> 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Medad</hi> one of the 70 Elders propheſied in the camp, <hi>Numb.</hi> 11.</item>
+               <item>
+                  <hi>Manoha</hi> the Father of <hi>Sampſon — Judges</hi> 13.</item>
+               <item>
+                  <hi>Micaiah</hi> oppoſel 400 falſe Prophets before King <hi>Ahab,</hi> 1 <hi>Kings</hi> 22.</item>
+               <item>
+                  <hi>Memucan</hi> Prince to King <hi>Ahaſhuerus</hi> gave council againſt <hi>Vaſthi</hi> the Queen. <hi>Eſt.</hi> 1.</item>
+               <item>
+                  <hi>Morde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ai</hi> a captive Jew would not reverence wicked <hi>Haman, Eſther</hi> 2.</item>
+               <item>
+                  <hi>Me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>odach-baladan</hi> the ſon of <hi>Baladan</hi> K. of <hi>Babylon</hi> ſent preſents to K. <hi>Hezekjah, Iſa.</hi> 39.</item>
+               <item>
+                  <hi>Melzar</hi> was ſet over <hi>Daniel,</hi> conſents to <hi>Daniel</hi> that reſuſed the Kings portion, <hi>Dan.</hi> 1.</item>
+               <item>NOAH walked with God &amp; was perfect in the old world &amp; ſaved in the flood, <hi>Gen.</hi> 5.</item>
+               <item>
+                  <hi>Nathan</hi> the Propher reproves <hi>David</hi> for his great ſin in the matter of <hi>
+                     <g ref="char:V">Ʋ</g>riah,</hi> 2 <hi>Sam.</hi> 12.</item>
+               <item>
+                  <hi>Nathanial</hi> a true Iſralite without guile ſo pronounc'd by Jeſus, <hi>Joh.</hi> 1.45. &amp;c.</item>
+               <item>
+                  <hi>Nicodemus</hi> firſt came to Jeſus by night, after pleads for Chriſt &amp; at his burial ſpared no coſt.
+<list>
+                     <item>
+                        <hi>Joh.</hi> 3.</item>
+                     <item>
+                        <hi>Joh.</hi> 19.</item>
+                     <item>
+                        <hi>Joh.</hi> 7.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Obed-edom</hi> entertains the Ark of God, and he with all his are bleſſed, 2 <hi>Sam.</hi> 6.</item>
+               <item>PHINEAS the prieſt in his zeal ſlew <hi>Zimry,</hi> &amp; <hi>Cosbi</hi> in the Act of uncleanueſs, <hi>Num.</hi> 25.</item>
+               <item>
+                  <hi>Peter</hi> that denyed Chriſt, <hi>Mat.</hi> 25. after converts 3000 at one Sermon, <hi>Acts</hi> 2.</item>
+               <item>
+                  <hi>Paul</hi> once a perſecuter obtained mercy, preaches till midnight &amp; is willing to dye for Chriſt
+<list>
+                     <item>
+                        <hi>Acts</hi> 20.</item>
+                     <item>
+                        <hi>Acts</hi> 24.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Agabus</hi> a phrophet could not diſwade <hi>paul</hi> from going to <hi>Jeruſalem, Acts</hi> 21.
+<list>
+                     <item>
+                        <hi>Acts</hi> 20.</item>
+                     <item>
+                        <hi>Acts</hi> 24.</item>
+                  </list>
+               </item>
+               <item>The <hi>Rechabits</hi> are bleſſed for their obedience to <hi>Jonadab</hi> their father — <hi>Jer.</hi> 35.</item>
+               <item>
+                  <hi>Shesbazzer</hi> prince of <hi>Judah</hi> carried up 5400 veſſels to <hi>Jeruſalem</hi> from <hi>Babilon. Ezra</hi> 1.</item>
+               <item>
+                  <hi>Old Simeon</hi> having ſeen Jeſus rejoyces for that ſalvation, <hi>Luk</hi> 2.</item>
+               <item>
+                  <hi>Thomas</hi> one of the XII, would not believe Chriſt was tiſen till he ſaw it, <hi>John</hi> 20.</item>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>riah</hi> refuſeth to go to his houſe while the Ark and <hi>Iſrael</hi> are abroad, 2 <hi>Sam.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</item>
+               <item>ZERUBBABEL A chief Father in <hi>Iſrael</hi> and eminent in finiſhing the Temple <hi>Ezra</hi> 5. and 6.</item>
+               <item>
+                  <hi>Zophar</hi> one of <hi>Iobs</hi> three friends falſely accuſed <hi>Job, Job</hi> 11.</item>
+               <item>
+                  <hi>Zacharias</hi> promiſed a ſon by the Angel, requires a ſign and is ſtruck dumb, <hi>Luk.</hi> 1.</item>
+               <item>
+                  <hi>Zacheus</hi> is called out of the Sycamore tree by Je<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s &amp; made a ſon of <hi>Abraham, Luk.</hi> 19.</item>
+            </list>
+            <list>
+               <head>GOOD WOMEN.</head>
+               <item>ABIGAL ſaves <hi>Nabals</hi> liſe by her council &amp; preſent he gave to <hi>David,</hi> 1 <hi>Sam.</hi> 25.</item>
+               <item>
+                  <hi>Achſah</hi> for her bleſſing hath given her the upper &amp; nether ſprings by <hi>Caled</hi> her Father, <hi>Joſh.</hi> 15.</item>
+               <item>
+                  <hi>Anna</hi> a Propheteſs a widow about 4 ſcore years old propheſied when ſhe ſaw Chriſt, <hi>Luk.</hi> 2.</item>
+               <item>
+                  <hi>Dinah Jacobs</hi> daughter was raviſhed by the <hi>Shechemites — Gen.</hi> 34.</item>
+               <item>EVE the mother of all mankind tempted by Satan ears of the forbidden fruit, <hi>Gen.</hi> 3</item>
+               <item>
+                  <hi>Eſther</hi> the Q. by faſting &amp; prayer ſaves her own liſe and all the people of the <hi>Iews, Eſt.</hi> 8</item>
+               <item>
+                  <hi>Elizabeth</hi> ſaluted by <hi>Mary</hi> the mother of Jeſus the babe leaped in her womb, <hi>Luk.</hi> 1.</item>
+               <item>HANNAH ſpake in her heart only her lips moved when <hi>Ely</hi> thought her drunk, 1 <hi>Sam.</hi> 2.</item>
+               <item>
+                  <hi>Jael</hi> with a hammer ſmote a nail into <hi>Siſera</hi>'s temples that he died, <hi>Judg.</hi> 4.</item>
+               <item>MARY choſe the better part the one thing neceſſary, <hi>Luk.</hi> 10.</item>
+               <item>
+                  <hi>Martha</hi> was reproved for being cumbred with many things, <hi>Luke</hi> 10.</item>
+               <item>
+                  <hi>Miriam</hi> for her ſedition is leaprous but healed by <hi>Moſes</hi> prayer, <hi>Numb.</hi> 12.</item>
+               <item>
+                  <hi>Naomi</hi> perſwades <hi>Orphah</hi> &amp; <hi>Ruth</hi> to continue in <hi>Moah</hi> but <hi>Ruth</hi> clave to her, <hi>Ruth</hi>
+               </item>
+               <item>RAHAB for concealing the two ſpies, ſaves her ſelf and family, <hi>Joſh.</hi> 2. <hi>Jam.</hi> 2.</item>
+               <item>
+                  <hi>Rebeckha</hi> Chuſeth to become <hi>Jſaac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> wiſe and Leaves her country, <hi>Gen.</hi> 24.</item>
+               <item>
+                  <hi>Rhoda</hi> is over joyd at <hi>Peters</hi> voice when by prayer he was delivered <hi>Acts</hi> 12.</item>
+               <item>
+                  <hi>Tabitha</hi> is raiſed from death by <hi>Peters</hi> prayer, <hi>Acts</hi> 9.</item>
+               <item>
+                  <hi>Sarah</hi> bears <hi>Iſaac</hi> at 90 years old, ſhe cal'd <hi>Abraham</hi> Lord, <hi>Gen.</hi> 21. 1 <hi>Pet.</hi> 7.</item>
+               <item>
+                  <hi>Queen</hi> of <hi>Sheba</hi> hearing <hi>Solomons</hi> wiſdom conſeſſes one half was not told her, 2 <hi>Kin.</hi>
+               </item>
+               <item>
+                  <hi>Samaritan</hi> woman is convinced and converted by Chriſts diſcourſe, <hi>John</hi> 4.</item>
+            </list>
+            <list>
+               <head>BAD MEN.</head>
+               <item>ABIMELECH King of <hi>Gerar</hi> takes <hi>Sara Abrahams</hi> wife &amp; is ſeverely reproved, <hi>Gen.</hi> 21.</item>
+               <item>
+                  <hi>Abihu Aarons</hi> ſon is deſtroyed by Fire for offering ſtrange Fire, <hi>Levit.</hi> 10.</item>
+               <item>
+                  <hi>Abiram</hi> for Rebellion is ſwallowed up of the Earth, <hi>Numb.</hi> 16.</item>
+               <item>
+                  <hi>Abimelech</hi> by conſpiracy ſlew 70 of his brethren, is himſelf ſlain by a Woman, <hi>Judg.</hi> 9.</item>
+               <item>
+                  <hi>Abſalon Davids</hi> Son conſpires againſt his Father and is ſlain by <hi>Joab,</hi> 2 <hi>Sam.</hi> 14.</item>
+               <item>
+                  <hi>Achan</hi> for Theft with all his, are Burnt, <hi>Joſhua.</hi> 7.</item>
+               <item>
+                  <hi>Amalek</hi> was utterly to be deſtroyed, for what they did to <hi>Iſrael, Exod.</hi> 17.</item>
+               <item>The <hi>Amalekite</hi> that ſlew <hi>Saul</hi> brings <hi>David</hi> his Crown &amp; Bracelet yet is ſlain, 2 <hi>Sam.</hi> 1.</item>
+               <item>
+                  <hi>Aehithophel Abſalons</hi> oracle his council is deſeated and he hangs himſelf, 2 <hi>Sam.</hi> 13.</item>
+               <item>
+                  <hi>Ammon</hi> for defiling his Siſter <hi>Tamar</hi> is murthered by <hi>Abſolon</hi> 2 years after 2 <hi>Sam.</hi> 13.</item>
+               <item>King <hi>Agrippa</hi> deſiring to hear <hi>Paul</hi> is perſwaded almoſt to be a Chriſtian, <hi>Acts</hi> 26.</item>
+               <item>
+                  <hi>Ananias</hi> converted by <hi>Peter,</hi> after for lying againſt the Holy Ghoſt is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ruck dead, <hi>Acts</hi> 5.</item>
+               <item>
+                  <hi>Alexander</hi> &amp; <hi>Hymeneus</hi> make ſhipwrack of faith, &amp; <hi>Paul</hi> delivers them to Satan, 1 <hi>Tim.</hi> 1.</item>
+               <item>BALAAM is hired by King <hi>Balak</hi> to curſe <hi>Iſrael</hi> but God would not ſuffer him, <hi>Joſh.</hi> 24.</item>
+               <item>The <hi>Baker</hi> &amp; <hi>Butler</hi> as <hi>Ioſeph</hi> interpreted their dreams find the event, <hi>Gen.</hi> 40.</item>
+               <item>King <hi>Belſhazzer</hi> impiouſly feaſting is the ſame hour greatly troubled at the hand, writing, <hi>Dan.</hi> 3.</item>
+               <item>
+                  <hi>Corah</hi> &amp; <hi>Dathan</hi> for rebellion againſt <hi>Moſes,</hi> are ſwallowed up of the Earth, <hi>Numb.</hi> 10.</item>
+               <item>
+                  <hi>Demas</hi> forſakes <hi>Paul</hi> when he was before <hi>Nero</hi> the ſecond time, 2 <hi>Tim.</hi> 4.</item>
+               <item>
+                  <hi>Darius</hi> the King by a decree cauſes <hi>Daniel</hi> to be caſt into the Lions den, <hi>Dan.</hi> 6.</item>
+               <item>
+                  <hi>Er</hi> &amp; <hi>Onan</hi> the ſons of <hi>Judah</hi> were both wicked and the Lord flew them, <hi>Gen.</hi> 38.</item>
+               <item>
+                  <hi>Eſau</hi> a cunning Hunter ſold his Birth-right and loſt his Bleſſing, <hi>Gen.</hi> 27.</item>
+               <item>
+                  <hi>Elymas</hi> the ſorcerer the enemy of righteouſneſſe is ſtruck blind by <hi>Paul, Act.</hi> 13.</item>
+               <item>
+                  <hi>Felix</hi> trembled at <hi>Pauls</hi> reaſoning, but put him of till a convenient time, <hi>Act.</hi> 24.</item>
+               <item>GAALS conſpiracy with the <hi>Shechemites</hi> is defeated by <hi>Zebul, Judg.</hi> 9.</item>
+               <item>
+                  <hi>Gehazi Eliſha</hi>'s ſervant for his falſchood is leprous white as ſnow, 2 <hi>Kin.</hi> 5.</item>
+               <item>
+                  <hi>Goliah</hi> defied Gods Hoaſt but <hi>David</hi> a ſtripling ſlew him with a ſling, 1 <hi>Sam.</hi> 17</item>
+               <item>
+                  <hi>Gog</hi> the Prince of <hi>Meſheche,</hi> &amp; <hi>Tubal</hi> propheſied againſt by <hi>Ezekiel, Cha</hi> 39.</item>
+               <item>
+                  <hi>Hophni</hi> and <hi>Phineas Aarons</hi> two ſons die both in one day by the <hi>Philiſtines,</hi> 1 <hi>Sam.</hi> 4</item>
+               <item>
+                  <hi>Hanua</hi> ſhaved off one half of <hi>Davids</hi> ſervants beards &amp; cut of their garments 'ith middle, 2 <hi>Sam.</hi> 10</item>
+               <item>
+                  <hi>Haman</hi> contrives the deſtruction of <hi>Mordecai,</hi> &amp; all the <hi>Jews</hi> but is hanged on his own Gallows, <hi>Eſt.</hi> 14</item>
+               <item>
+                  <hi>Herod</hi> being reproved by <hi>John Baptiſt</hi> added this above all to ſhut <hi>Iohn</hi> in priſon, <hi>Luk.</hi> 3</item>
+               <item>
+                  <hi>Herod</hi> the King being mockt of the wiſe men ſlew all the male children in <hi>Bethelem, Mat.</hi> 2. <hi>Act.</hi> 12.2</item>
+               <item>
+                  <hi>Jonathan</hi> rejects the prophecie of <hi>Jeremiah</hi> and accuſes him of falſchood, <hi>Jer.</hi> 43.</item>
+               <item>
+                  <hi>Iſhmael Hagars</hi> ſon a perſecator or <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aac — Genes</hi> 16. with <hi>Gal.</hi> 4.</item>
+               <item>
+                  <hi>Iſhmael</hi> of the ſeed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cyal treacherouſly ſlew 71 perſons, <hi>Jer.</hi> 41.</item>
+               <item>
+                  <hi>Judas</hi> the betrayer <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Jeſus for 30 pieces of ſilver hangs himſelf, <hi>Mat.</hi> 26.</item>
+               <item>
+                  <hi>Kain</hi> murthered <hi>Abel</hi> and i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> curſed — <hi>Geres,</hi> 4.</item>
+               <item>The Lawyer that tempted Jeſus when he askt his queſtion, <hi>Luk.</hi> 10.</item>
+               <item>
+                  <hi>Micah</hi> when there was no King in <hi>Iſrael</hi> had a houſe of Gods, &amp; a Prieſt, <hi>Judg.</hi> 17.</item>
+               <item>
+                  <hi>Nadah Aarons</hi> ſon for offering ſtrange fire is by fire deſtroyed, <hi>Levit.</hi> 10.</item>
+               <item>
+                  <hi>Nabal</hi> denys <hi>Dacids</hi> young men relief &amp; ſends him a churliſh meſſage, 1 <hi>Sam.</hi> 25.</item>
+               <item>
+                  <hi>Nebuchad-nezzar</hi> hath his dream interpreted and confeſſes <hi>Daniels</hi> God, <hi>Dan.</hi> 2.</item>
+               <item>
+                  <hi>Naaman</hi> by the appointment of <hi>Eliſha</hi> is healed of his Leproſie by waſhing 7 times, 1. <hi>King</hi> 5.</item>
+               <item>
+                  <hi>Nebuzaradan</hi> burnt the houſe of the Lord in <hi>Jeruſalem, Jerem.</hi> 52.</item>
+               <item>OG King of <hi>Baſhan</hi> was only leſt of the remnant of Giants, <hi>Numb.</hi> 21.</item>
+               <item>King <hi>Pharaoh</hi> increaſes his cruelty to <hi>Iſrael</hi> is hardned and after drownd in the red ſea, <hi>Exo.</hi> 15.</item>
+               <item>
+                  <hi>Paſhur</hi> ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ites <hi>Jeremiah</hi> &amp; put him in the ſtocks, the next day hears his doem, <hi>Jer.</hi> 20.</item>
+               <item>
+                  <hi>Pilate</hi> though admoniſht by his wiſe, delivered Jeſus to be crucified faultleſs, <hi>Mat.</hi> 27.</item>
+               <item>
+                  <hi>Rabſhakeh</hi> a blaſphemous meſſenger is ſent by <hi>Senacherib</hi> K. of <hi>Aſſiria, Mar.</hi> 15. <hi>Luk.</hi> 23.</item>
+               <item>
+                  <hi>Senacherib</hi> the King of <hi>Aſſiria</hi> in one night 185000 was ſlain in his camp by 2 <hi>Kin.</hi> 18.</item>
+               <item>
+                  <hi>Shemei</hi> of <hi>Sauls</hi> houſe curſeth <hi>David</hi> &amp; threw ſtons at him, 2 <hi>Sam.</hi> 16. an angel 2 <hi>Kin.</hi> 19.</item>
+               <item>
+                  <hi>Sheba</hi> rebells againſt <hi>David,</hi> &amp; in the city <hi>Abel</hi> his head is thrown over the wal, 2 <hi>Sam.</hi> 2.</item>
+               <item>
+                  <hi>Sanballat</hi> ſcoffs at the repair of <hi>Jeruſalem, Nehe.</hi> 4.</item>
+               <item>
+                  <hi>Simon</hi> the ſorcerer offers money, for the gift of the holy Ghoſt, <hi>Acts</hi> 8.</item>
+               <item>
+                  <hi>Tertullus</hi> accuſes <hi>Paul</hi> before <hi>Felix</hi> to be a peſtilent ſellow, <hi>Acts</hi> 24.</item>
+               <item>
+                  <hi>Ziba</hi> falſely aceuſes his maſter and obtains his inheritance, 2 <hi>Sam.</hi> 16. and <hi>Ch.</hi> 19.</item>
+            </list>
+            <list>
+               <head>BAD WOMEN</head>
+               <item>
+                  <hi>Cosbi</hi> is thruſt through by <hi>Phineas</hi> in the act of uncleanneſs, <hi>Numb.</hi> 25.</item>
+               <item>
+                  <hi>Delilah</hi> betrays <hi>Sampſon</hi> to the <hi>Philiſtines, Jud.</hi> 16.</item>
+               <item>
+                  <hi>Herodias</hi> obtains of <hi>Herod John Baptiſts</hi> head — <hi>Math.</hi> 14.</item>
+               <item>
+                  <hi>Jezabel</hi> contrives <hi>Naboths</hi> death, but by <hi>Jebus</hi> command ſhe is thrown out of a win<g ref="char:EOLhyphen"/>dow and the dogs lick her blood, 2 <hi>Kin.</hi> 9.</item>
+               <item>
+                  <hi>Michol</hi> deſpiſeth <hi>David</hi> for dancing before the Ark and is childleſs, 2 <hi>Sam.</hi> 6.</item>
+               <item>
+                  <hi>Saphirah</hi> for lying againſt the holy ghoſt is ſtruck dead, <hi>Act.</hi> 5.</item>
+               <item>
+                  <hi>Jobs</hi> wiſe tempts Him to Curſe GOD and dye — <hi>Job.</hi> 2.</item>
+               <item>An Harlet Subtil of hart Catcheth young men void of underſtanding, <hi>Prov.</hi> 7.</item>
+            </list>
+            <epigraph>
+               <q>
+                  <lg>
+                     <l>Here's Life and Death, here's Evil and here's Good,</l>
+                     <l>Compar'd together where before they ſtood,</l>
+                     <l>Diſperſ'd in Scripture, they deſerve your look,</l>
+                     <l>As t'were a Copy of the Doomſday Book.</l>
+                  </lg>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. Croſſe.</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
